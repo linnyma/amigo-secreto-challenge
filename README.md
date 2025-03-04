@@ -25,7 +25,7 @@ Es una práctica ideal para mejorar habilidades en **DOM**, **manipulación de a
 
 ## 📷 Captura de pantalla
 
-![Vista previa del proyecto](https://via.placeholder.com/800x400?text=Sorteo+de+Amigos)
+![Vista previa del proyecto](https://github.com/linnyma/amigo-secreto-challenge/blob/4291f7e695328d54640fdf4e8fbafe33e78426d7/Screenshot%202025-03-04%20at%2013.34.54.png)
 
 ## 📚 Aprendizajes
 
