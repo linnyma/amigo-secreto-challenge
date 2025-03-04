@@ -1,5 +1,7 @@
 # 🎯 Challenge Amigo Secreto 
 
+🔗 **[Link del Proyecto en Github Pages](https://linnyma.github.io/amigo-secreto-challenge/)**
+
 Este proyecto es un desafío del programa **Alura Latam** donde desarrollé la parte lógica de una aplicación web interactiva en **JavaScript**, que permite agregar nombres de amigos y realizar un sorteo aleatorio entre ellos.
 
 ## 📌 Descripción
