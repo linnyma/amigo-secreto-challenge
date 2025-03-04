@@ -37,5 +37,5 @@ Es una práctica ideal para mejorar habilidades en **DOM**, **manipulación de a
 
 **Aylin Miranda Antunez**
 
-🔗 [LinkedIn]((https://www.linkedin.com/in/aylin-miranda-antunez/)) | 📧 linnma777@gmail.com
+🔗 [LinkedIn]([https://www.linkedin.com/in/aylin-miranda-antunez/]) | 📧 linnma777@gmail.com
 
